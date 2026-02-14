@@ -16,11 +16,11 @@ July 7, 2016 Yogini Ashram home of Kriya Tantra Yoga
 
 
 
-Babaji
+# Babaji
 
-By Swami Ayyappa Giri, Acharya, Yogini Ashram, Norwalk Ca.
+### By Swami Ayyappa Giri, Acharya, Yogini Ashram, Norwalk Ca.
 
-Article Rewritten and Published on Babaji’s Birthday 30 November 2014
+### Article Rewritten and Published on Babaji’s Birthday 30 November 2014
 
 <!--
 ![Babaji](img/babaji.jpg)
