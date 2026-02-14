@@ -26,5 +26,5 @@ Article Rewritten and Published on Babaji’s Birthday 30 November 2014
 ![Babaji](img/babaji.jpg)
 -->
 
-<img src="img/babaji.jpg" width="300" height="200">
+<img src="img/babaji.jpg" width="200" height="300">
 
