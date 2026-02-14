@@ -22,5 +22,9 @@ By Swami Ayyappa Giri, Acharya, Yogini Ashram, Norwalk Ca.
 
 Article Rewritten and Published on Babaji’s Birthday 30 November 2014
 
-
+<!--
 ![Babaji](img/babaji.jpg)
+-->
+
+<img src="img/babaji.jpg" width="300" height="200">
+
